@@ -24,7 +24,7 @@ The initial state is set to `start`.
 		* Reply: vast & hazy 專輯介紹、歌曲列表
 
 	* Input: "次等秘密"
-		* Reply:次等秘密專輯介紹、歌曲列表
+		* Reply: 次等秘密專輯介紹、歌曲列表
 
 * find_song
 
