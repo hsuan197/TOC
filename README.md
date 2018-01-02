@@ -1,5 +1,5 @@
 # TOC Project 2017
-##介紹樂團 vast & hazy
+介紹樂團 vast & hazy
 
 ## Finite State Machine
 ![fsm](./img/show-fsm.png)
